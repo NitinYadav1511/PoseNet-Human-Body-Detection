@@ -9,6 +9,7 @@ PoseNet is a computer vision model used for estimating human poses by detecting 
 ## Why PoseNet and ml5.js?
 
 ### PoseNet:
+- PoseNet was developed by Google and was initially released as part of the TensorFlow.js library.
 - PoseNet is a highly efficient pose estimation model capable of detecting keypoints in real-time. It is suitable for building human pose tracking applications.
 - It provides a quick and accurate method to identify 17 key body parts such as elbows, wrists, and knees.
 
