@@ -52,3 +52,7 @@ The project contains the following key files:
 
 - p5.js
 - ml5.js
+
+## Live Deployment
+
+Click Here to Interact [Human Body Detection using PoseNet](https://nitinyadav1511.github.io/PoseNet-Human-Body-Detection/).
